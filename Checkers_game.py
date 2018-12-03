@@ -1,4 +1,5 @@
 # To Mr. V: the game works better (and you can see the board better in 'Lucinda console' or 'Terminal' font)
+# Sorry, I couldn't find a way to replace a piece by another in update_board
 
 def initialize_board() -> list:
         '''
